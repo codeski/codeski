@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
+
 ### Hi, I'm Todd 👋
 
 Experienced Full Stack Software Engineer using JavaScript and Ruby frameworks. 
@@ -5,6 +8,7 @@ Experienced Full Stack Software Engineer using JavaScript and Ruby frameworks.
 <i class="devicon-ruby-plain"></i>
 <i class="devicon-rails-plain"></i>
 <i class="devicon-javascript-plain"></i>
+<i class="devicon-react-original"></i>
 <i class="devicon-bootstrap-plain"></i>
 <i class="devicon-html5-plain"></i>
 <i class="devicon-github-original"></i>
