@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Todd 👋
+
+Experienced Full Stack Software Engineer using JavaScript and Ruby frameworks. 
+
+<i class="devicon-ruby-plain"></i>
+<i class="devicon-rails-plain"></i>
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-bootstrap-plain"></i>
+<i class="devicon-html5-plain"></i>
+<i class="devicon-github-original"></i>
+<i class="devicon-vscode-plain"></i>
+<i class="devicon-photoshop-plain"></i>
+
 
 <!--
 **codeski/codeski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
