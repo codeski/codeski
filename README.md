@@ -33,7 +33,7 @@ Experienced Full Stack Web Developer using Ruby and JavaScript languages. Thrive
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-### Random Joke Generator:
+### Programmer Joke Generator:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **codeski/codeski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
