@@ -1,6 +1,6 @@
 ### Hi, I'm Todd <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Full Stack Web Developer
+Experienced Full Stack Web Developer using Ruby and JavaScript languages. Thrive when challenged to solve complex problems by using time-management, innovative ideas and creativity to create robust projects and solutions. Passion to learn new languages and technologies.
 
 :mailbox: Reach out!
 
