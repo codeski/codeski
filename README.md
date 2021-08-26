@@ -10,6 +10,7 @@ Experienced Full Stack Web Developer using Ruby and JavaScript languages. Thrive
 ## Languages:
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Ruby Badge](https://img.shields.io/badge/-Ruby-ff0000?style=for-the-badge&labelColor=black&logo=ruby&logoColor=ff0000)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Frameworks:
