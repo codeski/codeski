@@ -5,7 +5,7 @@ I'm a Full Stack Web Developer
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Todd-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/todd-stoneberg/)
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Todd-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:todd.stoneberg@gmail.com)
 
 
 
