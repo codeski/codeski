@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Random Joke Generator
+#### Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
