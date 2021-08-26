@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer
 [![Mail Badge](https://img.shields.io/badge/-Todd-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:todd.stoneberg@gmail.com)
 
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Ruby Badge](https://img.shields.io/badge/-Ruby-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Ruby Badge](https://img.shields.io/badge/-Ruby-F0DB4F?style=for-the-badge&labelColor=black&logo=ruby&logoColor=F0DB4F)]
 
 
 <!--
